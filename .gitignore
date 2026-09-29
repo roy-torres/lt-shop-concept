@@ -1,0 +1,16 @@
+# This folder holds other projects; only the shop page is tracked.
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/images/
+!/tools/
+
+# Secrets and local tool state
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.claude/logs/
+.DS_Store
+__pycache__/
